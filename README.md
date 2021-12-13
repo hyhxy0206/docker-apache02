@@ -1,2 +1,2 @@
 # docker-apache02
-Dockerfile构建apache镜像基于alpine镜像
+Dockerfile构建apache镜像基于alpine镜像涉及的脚本都要给执行权限
